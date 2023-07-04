@@ -6,7 +6,7 @@ on:
 env:
   applicationfolder: spring-boot-hello-world-example
   AWS_REGION: eu-west-2
-  S3BUCKET: arn:aws:s3:::angular-angular-app-ba
+  S3BUCKET: angular-angular-app-ba
 
 jobs:
   build:
